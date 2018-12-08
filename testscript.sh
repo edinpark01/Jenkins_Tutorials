@@ -7,4 +7,4 @@ echo $NUMBER
 echo "This is complete"
 
 
-echo "Testing Automatic Trigger - Test 04"
+echo "Testing Automatic Trigger - Test 05"
